@@ -1,0 +1,6 @@
+**/.gitkeep
+.editorconfig
+.ember-cli
+.gitignore
+.eslintrc.js
+.watchmanconfig

@@ -1,0 +1,27 @@
+{
+  "name": "joda-i18n",
+  "version": "0.1.0-alpha.0",
+  "description": "Joda frontend internationalization package",
+  "keywords": [
+    "ember-addon"
+  ],
+  "license": "AGPL-3.0",
+  "author": "Tadej Novak <tadej@tano.si>",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "repository": "joda-project/joda-i18n",
+  "scripts": {
+    "build": "ember build",
+    "start": "ember server",
+    "test": "ember try:each"
+  },
+  "dependencies": {
+    "ember-cli-babel": "^6.3.0",
+    "ember-i18n": "^5.0.2"
+  },
+  "engines": {
+    "node": ">= 6.0"
+  }
+}
