@@ -4,6 +4,7 @@ export default {
   'home': 'Home',
   'admin': 'Administration',
   'manage': 'Manage',
+  'edit': 'Edit',
   'tags': 'Tags',
 
   'uploaded-at': 'uploaded at',

@@ -4,6 +4,7 @@ export default {
   'home': 'Domov',
   'admin': 'Administracija',
   'manage': 'Upravljanje',
+  'edit': 'Uredi',
   'tags': 'Oznake',
 
   'uploaded-at': 'naloženo ob',
