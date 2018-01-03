@@ -18,8 +18,8 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.8.0",
-    "ember-i18n": "^5.0.2"
+    "ember-cli-babel": "^6.6.0",
+    "ember-i18n": "^5.1.0"
   },
   "engines": {
     "node": ">= 6.0"
